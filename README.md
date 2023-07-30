@@ -1,0 +1,1 @@
+- [小程序性能优化指南官方](https://developers.weixin.qq.com/community/develop/doc/00040e5a0846706e893dcc24256009)
